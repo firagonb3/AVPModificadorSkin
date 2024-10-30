@@ -38,6 +38,7 @@ Esto creará un archivo ejecutable llamado AVPModifier
     - Detectará el directorio del juego *Aliens Vs Predator* en función del nombre de usuario de Windows actual.
     - Localizará el archivo `.prf` en el directorio del juego.
     - Modificará las direcciones hexadecimales en el archivo `.prf` para cambiar las skins de los personajes del juego.
+> **Nota**: El programa se tiene que ejecutara antes de iniciar el juego.
 
 ## Ejemplo
 
@@ -63,9 +64,6 @@ Se modifico la posicion a25 con el valor 7 en el archivo C:\Users\Firagon\AppDat
 Se modifico la posicion a29 con el valor 2 en el archivo C:\Users\Firagon\AppData\Local\AliensVsPredator\76561198190973581\76561198190973581.prf.
 Se modifico la posicion a2d con el valor 4 en el archivo C:\Users\Firagon\AppData\Local\AliensVsPredator\76561198190973581\76561198190973581.prf.
 ```
-
-> **Nota**: El programa se tiene que ejecutara antes de iniciar el juego.
-
 > **Nota**: El programa no modificará el archivo .prf si no se encuentra en el directorio del juego.
 
 > **Nota**: El número `76561198190973581` es único para cada usuario y puede variar.
