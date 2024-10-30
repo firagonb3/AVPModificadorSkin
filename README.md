@@ -84,7 +84,7 @@ Los valores y offsets hexadecimales en main() pueden ajustarse según sea necesa
 
 Cada valor representa la posicion de skin de un personaje, y los offsets corresponden a la posicion especifica de los personaje.
 
-## Valores de Skins (Hexadecimal)
+### Valores de Skins (Hexadecimal)
 
 ### Predator
 - **Dark**: `0x00`
