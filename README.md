@@ -65,7 +65,9 @@ Se modifico la posicion a2d con el valor 4 en el archivo C:\Users\Firagon\AppDat
 ```
 
 > **Nota**: El programa se tiene que ejecutara antes de iniciar el juego.
+
 > **Nota**: El programa no modificará el archivo .prf si no se encuentra en el directorio del juego.
+
 > **Nota**: El número `76561198190973581` es único para cada usuario y puede variar.
 
 
