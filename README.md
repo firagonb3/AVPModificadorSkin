@@ -87,32 +87,32 @@ Cada valor representa la posicion de skin de un personaje, y los offsets corresp
 ## Valores de Skins (Hexadecimal)
 
 ### Predator
-- **Dark**: `0x00`
-- **Claw**: `0x01`
-- **Stalker**: `0x02`
-- **Hunter**: `0x03`
-- **Spartan**: `0x04`
-- **Wolf**: `0x05`
-- **Lord**: `0x06`
-- **Alien**: `0x07`
+- **Oscuro** - `0x00` - Skin predeterminado (Rango 0)
+- **Garras** - `0x01` - Desbloquear en Rango 3
+- **Medoreador** - `0x02` - Desbloquear en Rango 7
+- **Cazador** - `0x03` - Desbloquear en Rango 16
+- **Spartano** - `0x04` - Desbloquear en Rango 25
+- **Lobo** - `0x05` - Desbloquear en Rango 31
+- **Señor** - `0x06` - Desbloquear en Rango 37
+- **Alien** - `0x07` - Solo por preorden
 
 ### Alien
-- **Warrior**: `0x00`
-- **Warrior Dome**: `0x01`
-- **Number 6**: `0x02`
-- **Warrior Ridged**: `0x03`
-- **Praetorian**: `0x04`
-- **Nethead**: `0x05`
+- **Guerrero** - `0x00` - Skin predeterminado (Rango 0)
+- **Guerrero Supremo** - `0x01` - Desbloquear en Rango 4
+- **Número 6** - `0x02` - Solo por preorden
+- **Guerrero tribal** - `0x03` - Desbloquear en Rango 10
+- **Pretoriano** - `0x04` - Desbloquear en Rango 19
+- **Guerrero marcado** - `0x05` - Desbloquear en Rango 34
 
 ### Marine
-- **Franco**: `0x00`
-- **Rookie**: `0x01`
-- **Van Zandt**: `0x02`
-- **Moss**: `0x03`
-- **Kaneko**: `0x04`
-- **Connor**: `0x05`
-- **Gibson**: `0x06`
-- **Johnson**: `0x07`
+- **Franco** - `0x00` - Skin predeterminado (Rango 0)
+- **Novato** - `0x01` - Desbloquear en Rango 28
+- **Van Zandt** - `0x02` - Desbloquear en Rango 40
+- **Moss** - `0x03` - Desbloquear en Rango 13
+- **Kaneko** - `0x04` - Solo por preorden
+- **Connor** - `0x05` - Desbloquear en Rango 5
+- **Gibson** - `0x06` - Desbloquear en Rango 2
+- **Johnson** - `0x07` - Desbloquear en Rango 22
 
 ## Solución de Problemas
 Si el programa no puede encontrar el directorio o archivo, asegúrate de que:
