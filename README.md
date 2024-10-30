@@ -64,6 +64,11 @@ Se modifico la posicion a29 con el valor 2 en el archivo C:\Users\Firagon\AppDat
 Se modifico la posicion a2d con el valor 4 en el archivo C:\Users\Firagon\AppData\Local\AliensVsPredator\76561198190973581\76561198190973581.prf.
 ```
 
+> **Nota**: El programa se tiene que ejecutara antes de iniciar el juego.
+> **Nota**: El programa no modificará el archivo .prf si no se encuentra en el directorio del juego.
+> **Nota**: El número `76561198190973581` es único para cada usuario y puede variar.
+
+
 ## Funciones
 - obtener_directorio_AVP: Construye la ruta hacia el directorio de Aliens Vs Predator usando la variable de entorno USERNAME del sistema.
 
@@ -121,7 +126,7 @@ Si el programa no puede encontrar el directorio o archivo, asegúrate de que:
  - El archivo `.prf` existane en la ubicaccion.
   `C:\Users\%USERNAME%\AppData\Loca7l\AliensVsPredator\NUMERO\NUMERO.prf.`
   
->si no existe puede modificar cualquier configuracion del juego esto ara que el archvi se cree.
+>**Nota**: Nota: Si el archivo `.prf` no existe, puedes modificar cualquier configuración del juego. Esto hará que el archivo se cree automáticamente.
 
 ## Aviso Legal
 
